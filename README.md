@@ -2,7 +2,7 @@
 ### A area pickerview demo with about 46000 data that can be customed.
 
 # Start
-### It starts with ViewController's function testClick,-(void)testClick{[ASAreaPickerView shareInstance].showOnView = self.view;[ASAreaPickerView shareInstance].delegate = self;[ASAreaPickerView shareInstance].btnColor = [UIColor redColor];[ASAreaPickerView shareInstance].areaTitleColor = [UIColor orangeColor];[ASAreaPickerView shareInstance].areaTextColor = [UIColor blueColor];[ASAreaPickerView shareInstance].toolBarBgColor = [UIColor yellowColor];[ASAreaPickerView shareInstance].pickerViewBgColor = [UIColor redColor];[[ASAreaPickerView shareInstance] show];
+### It starts with ViewController's function testClick.
 
 # Features
 ### Customed easyly.
